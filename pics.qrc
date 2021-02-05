@@ -1,0 +1,28 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>ico/bg.png</file>
+		<file>ico/bg2.png</file>
+		<file>ico/bg.png</file>
+		<file>ico/pic.png</file>
+		<file>ico/text1.png</file>
+		<file>ico/search.png</file>
+		<file>ico/add.png</file>
+		<file>ico/edit.png</file>
+		<file>ico/save.png</file>
+		<file>ico/next.png</file>
+		
+		<file>ico/delete.png</file>
+		
+		<file>ico/addf.png</file>
+		<file>ico/removef.png</file>
+		<file>ico/addperson.png</file>
+		
+		<file>ico/login.png</file>
+		<file>ico/adduser.png</file>
+		<file>ico/start.png</file>
+		<file>ico/print.png</file>
+		
+		<file>ico/open1.png</file>
+	</qresource>
+</RCC>
