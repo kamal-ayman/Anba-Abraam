@@ -94,7 +94,7 @@ QLineEdit::hover
 </string>
     </property>
     <property name="currentIndex">
-     <number>5</number>
+     <number>3</number>
     </property>
     <widget class="QWidget" name="tab_14">
      <attribute name="title">
@@ -496,7 +496,7 @@ QPushButton:hover
         <x>330</x>
         <y>80</y>
         <width>540</width>
-        <height>150</height>
+        <height>161</height>
        </rect>
       </property>
       <property name="font">
@@ -525,7 +525,7 @@ image: url(:/ico/text1.png);
        <locale language="Arabic" country="Egypt"/>
       </property>
       <property name="text">
-       <string>           قاعدة بيانات خدمة الأنبا ابرام</string>
+       <string>       قاعدة بيانات خدمة الأنبا ابرام</string>
       </property>
      </widget>
      <widget class="QLabel" name="label_69">
@@ -1354,7 +1354,7 @@ QLineEdit::hover
         <x>330</x>
         <y>80</y>
         <width>540</width>
-        <height>150</height>
+        <height>160</height>
        </rect>
       </property>
       <property name="font">
@@ -1383,7 +1383,7 @@ image: url(:/ico/text1.png);
        <locale language="Arabic" country="Egypt"/>
       </property>
       <property name="text">
-       <string>           قاعدة بيانات خدمة الأنبا ابرام</string>
+       <string>       قاعدة بيانات خدمة الأنبا ابرام</string>
       </property>
      </widget>
      <widget class="QLabel" name="label_93">
@@ -1652,7 +1652,7 @@ QComboBox::drop-down
       <property name="font">
        <font>
         <family>Mikhak Bold</family>
-        <pointsize>25</pointsize>
+        <pointsize>24</pointsize>
         <weight>9</weight>
         <italic>false</italic>
         <bold>false</bold>
@@ -1665,7 +1665,7 @@ QComboBox::drop-down
        <enum>Qt::LeftToRight</enum>
       </property>
       <property name="styleSheet">
-       <string notr="true">font: 75 25pt &quot;Mikhak Bold&quot;;
+       <string notr="true">font: 75 24pt &quot;Mikhak Bold&quot;;
 color: rgb(255, 255, 255);
 image: url(:/ico/text1.png);
 </string>
@@ -1674,7 +1674,7 @@ image: url(:/ico/text1.png);
        <locale language="Arabic" country="Egypt"/>
       </property>
       <property name="text">
-       <string>           قاعدة بيانات خدمة الأنبا ابرام</string>
+       <string>         قاعدة بيانات خدمة الأنبا ابرام</string>
       </property>
      </widget>
      <widget class="QLabel" name="label_94">

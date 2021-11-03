@@ -2956,7 +2956,7 @@ class Process(QThread):
     T = pyqtSignal(list)
 
     def run(self):
-        text = "           قاعدة بيانات خدمة الأنبا ابرام"
+        text = "        قاعدة بيانات خدمة الأنبا ابرام"
         litter = ""
         lst = []
         for t in text:
